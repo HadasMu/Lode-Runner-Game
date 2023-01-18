@@ -1,0 +1,24 @@
+# ninja log v5
+31	1679	695734654	CMakeFiles/001_ex05.dir/src/Button.cpp.obj	5800c8e038ad76dc
+21	1693	695734654	CMakeFiles/001_ex05.dir/src/ButtonLevel.cpp.obj	f07bc1e0b3db004f
+16	1701	695734654	CMakeFiles/001_ex05.dir/src/MoveObjectAbstract.cpp.obj	3ea92758fc87a5bf
+26	1745	695734654	CMakeFiles/001_ex05.dir/src/ObjectAbstract.cpp.obj	4a69b3b8ac60a7ae
+44	1779	695734654	CMakeFiles/001_ex05.dir/src/Level.cpp.obj	18b421a90701fec6
+2	2055	695734654	CMakeFiles/001_ex05.dir/src/main.cpp.obj	999c86d70b52098c
+37	2063	695734654	CMakeFiles/001_ex05.dir/src/Player.cpp.obj	bdfbe0de556503de
+56	2072	695734654	CMakeFiles/001_ex05.dir/src/HandleFile.cpp.obj	8b337828ce107776
+49	2933	695734655	CMakeFiles/001_ex05.dir/src/Menu.cpp.obj	40888cdc1c25f952
+11	3170	695734655	CMakeFiles/001_ex05.dir/src/Controller.cpp.obj	bf9a2e0800023525
+1745	3274	695734655	CMakeFiles/001_ex05.dir/src/Hole.cpp.obj	570079cd274ddacd
+1693	3285	695734655	CMakeFiles/001_ex05.dir/src/SmartEnemy.cpp.obj	6c03a40e34afa3d8
+1701	3335	695734655	CMakeFiles/001_ex05.dir/src/RandomEnemy.cpp.obj	641f8611f53dc887
+1680	3735	695734656	CMakeFiles/001_ex05.dir/src/EnemyAbstract.cpp.obj	f618999625bec1a5
+2055	3769	695734656	CMakeFiles/001_ex05.dir/src/BackForthEnemy.cpp.obj	afd0010b3e298df5
+1779	3842	695734656	CMakeFiles/001_ex05.dir/src/Coin.cpp.obj	8929dcb4b7ecf35f
+2072	3866	695734656	CMakeFiles/001_ex05.dir/src/Pole.cpp.obj	47edd2ac24ea4de0
+2064	3915	695734656	CMakeFiles/001_ex05.dir/src/Gift.cpp.obj	94cbcb7598bf2cb3
+2933	4300	695734656	CMakeFiles/001_ex05.dir/src/Ladder.cpp.obj	3f7145719af51954
+3170	4340	695734656	CMakeFiles/001_ex05.dir/src/StaticObject.cpp.obj	ff35ddc5dd2d7e5d
+3274	4437	695734656	CMakeFiles/001_ex05.dir/src/Wall.cpp.obj	70e56ea716f4f384
+3285	4534	695734656	CMakeFiles/001_ex05.dir/src/ImageAndAudio.cpp.obj	8fcf2bf44f8cf9fb
+4535	5528	695734657	001_ex05.exe	f1a62f89ee6ead19
